@@ -1,3 +1,3 @@
-Sheduler
+Scheduler
 =========
-!(http://imgs.xkcd.com/comics/scheduling_conflict.png)
+![](http://imgs.xkcd.com/comics/scheduling_conflict.png)
