@@ -1,4 +1,3 @@
-Scheduler
+Sheduler
 =========
-
-Playing around with Bootstrap
+!(http://imgs.xkcd.com/comics/scheduling_conflict.png)
